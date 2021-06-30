@@ -1,0 +1,1 @@
+qwt_add_example(controls DialBox.cpp  DialTab.cpp  KnobBox.cpp  KnobTab.cpp  main.cpp       SliderBox.h    SliderTab.h   WheelBox.h    WheelTab.h DialBox.h    DialTab.h    KnobBox.h    KnobTab.h    SliderBox.cpp  SliderTab.cpp  WheelBox.cpp  WheelTab.cpp)
